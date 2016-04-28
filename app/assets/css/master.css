@@ -70,7 +70,7 @@ body, html {
   background: white; }
   @media (max-width: 640px) {
     .main-container {
-      height: 53%; } }
+      height: 80%; } }
 
 .image-container {
   width: 100%;
