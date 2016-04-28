@@ -1,0 +1,9 @@
+// custom foundation setup
+// @import '../../bower_components/foundation-sites/scss/foundation.scss';
+
+@import 'base/reset.scss';
+
+@import 'base/breakpoints.scss';
+
+// custom sass
+@import 'custom.scss'
