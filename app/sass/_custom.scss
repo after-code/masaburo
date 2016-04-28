@@ -14,7 +14,7 @@ body, html{
   padding: 4% 4% 0 4%;
   background: white;
   @include breakpoint(mobile) {
-    height: 43%;
+    height: 53%;
   }
 }
 .image-container {
@@ -67,7 +67,7 @@ body, html{
   margin-left:5%;
   float: right;
   @include breakpoint(mobile) {
-      padding-top: 36px;
+      padding-top: 28px;
       float: right;
   }
 }
