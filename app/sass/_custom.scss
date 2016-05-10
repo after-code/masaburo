@@ -23,7 +23,8 @@ body, html{
   background-image: url('../../assets/img/1200x565-over.jpg');
   background-size: 100% 100%;
   @include breakpoint(mobile) {
-    background-image: url('../../assets/img/mobile.png');
+    // background-image: url('../../assets/img/mobile.png');
+    background-image: url('../../assets/img/masaburo-mobile-bck-0001.jpg');
   }
 }
 .bottom-container {
